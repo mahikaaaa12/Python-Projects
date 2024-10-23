@@ -7,7 +7,7 @@ Table of Contents
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/python-projects.git
+git clone https://github.com/mahikaaaa12/python-projects.git
 cd python-projects
 
 Set up a virtual environment:
